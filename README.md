@@ -1,3 +1,3 @@
 # project2022
 
-JAVASCRIPT SLIDES - HTML ,CSS ,JAVASCRIPT
+Javascript Slides - 03/11/2022
